@@ -1,0 +1,20 @@
+{
+  "helloWorld": "नमस्ते दुनिया",
+  "@helloWorld": {
+    "description": "नवजात प्रोग्रामरों का पारंपरिक ग्रीटिंग"
+  },
+
+  "contact": "संपर्क करें",
+  "gallery": "गैलरी",
+  "about": "हमारे बारे में",
+  "extraTile1": "अतिरिक्त टाइल 1",
+  "extraTile2": "अतिरिक्त टाइल 2",
+
+  "settings": "सेटिंग्स",
+  "notification": "सूचनाएँ",
+  "sound": "ध्वनि",
+  "darkMode": "डार्क मोड",
+  "language": "भाषा",
+  "changeLanguage": "भाषा बदलें",
+  "apply": "लागू करें"
+}
